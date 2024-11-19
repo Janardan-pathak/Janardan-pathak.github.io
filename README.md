@@ -5,35 +5,35 @@
 ### 1. [Tic-Tac-Toe](https://janardan-pathak.github.io/Tic-Tac-Toe/)
 
 A classic **Tic-Tac-Toe game** built using HTML, CSS, and JavaScript. Test your skills against the computer or play with a friend!  
-![Tic Tac Toe Screenshot](https://via.placeholder.com/600x300?text=Tic-Tac-Toe+Preview)
+![Tic Tac Toe Screenshot](https://janardan-pathak.github.io/assets/images/tic.png)
 
 ---
 
 ### 2. [URL Shrinker](https://janardan-pathak.github.io/Url-Shrinker/)
 
 Simplify long URLs into short and manageable links with this intuitive URL shrinker.  
-![URL Shrinker Screenshot](https://via.placeholder.com/600x300?text=URL-Shrinker+Preview)
+![URL Shrinker Screenshot](https://janardan-pathak.github.io/assets/images/url.png)
 
 ---
 
 ### 3. [GUI Calculator](https://janardan-pathak.github.io/Gui-Calculator/)
 
 A sleek and functional **Graphical Calculator** with a responsive UI for performing basic arithmetic operations.  
-![GUI Calculator Screenshot](https://via.placeholder.com/600x300?text=GUI-Calculator+Preview)
+![GUI Calculator Screenshot](https://janardan-pathak.github.io/assets/images/calc.png)
 
 ---
 
 ### 4. [Image Deleter](https://janardan-pathak.github.io/image-Deleter/)
 
 Manage your storage effectively with this **Image Deleter** tool to remove unwanted images from directories.  
-![Image Deleter Screenshot](https://via.placeholder.com/600x300?text=Image-Deleter+Preview)
+![Image Deleter Screenshot](https://janardan-pathak.github.io/assets/images/file.png)
 
 ---
 
 ### 5. [HTML to Markdown Converter](https://janardan-pathak.github.io/HtmlToMarkdown/)
 
 Easily convert HTML code snippets into Markdown format with this handy tool.  
-![HTML to Markdown Screenshot](https://via.placeholder.com/600x300?text=HTML-to-Markdown+Preview)
+![HTML to Markdown Screenshot](https://janardan-pathak.github.io/assets/images/html.png)
 
 ---
 
