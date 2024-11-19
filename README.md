@@ -1,8 +1,4 @@
----
-# Janardan Pathak's Project Showcase
-
-Welcome to my GitHub Pages site! Here, you'll find a collection of my personal projects, ranging from games to utility tools. Feel free to explore and use the tools I've built. 🎉
----
+## Welcome to my GitHub Pages site! Here, you'll find a collection of my personal projects, ranging from games to utility tools. Feel free to explore and use the tools I've built. 🎉
 
 ## 🚀 **Projects**
 
